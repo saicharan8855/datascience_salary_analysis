@@ -1,0 +1,12 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Mac system files (if you use Mac)
+.DS_Store
+
+# Virtual Environment (if you have one)
+env/
+venv/
