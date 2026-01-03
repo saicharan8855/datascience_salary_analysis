@@ -53,23 +53,18 @@ The analysis uses a cleaned dataset (`ds_salaries_cleaned.csv`) containing the f
 ## 📂 Project Structure
 
 ```text
-ds-salary-analysis/
+datascience_salary_analysis/
 ├── data/
 │   ├── ds_salaries.csv          # Raw original data
 │   └── ds_salaries_cleaned.csv  # Processed data used for analysis
 ├── notebooks/
 │   ├── 1_context_and_question.ipynb
 │   ├── 2_data_integrity.ipynb
-│   ├── 3_distribution_science.ipynb
-│   ├── 4_compensation_structure.ipynb
-│   ├── 5_cohort_analysis.ipynb
-│   ├── 6_statistical_validation.ipynb
-│   └── 7_bias_and_limits.ipynb
-├── images/                      # Exported visualizations for this README
+│   ├── ... (all 7 notebooks)
+├── images/                      # Exported visualizations
+├── .gitignore                   # Files to exclude from Git
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
-
-
 
 👨‍💻 Author
 Sai Charan
